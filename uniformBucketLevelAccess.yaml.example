@@ -1,0 +1,5 @@
+name: folders/123455678901/policies/storage.uniformBucketLevelAccess
+spec: 
+  inherit_from_parent: False
+  rules:
+      enforce: False
